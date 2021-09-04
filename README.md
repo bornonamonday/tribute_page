@@ -1,4 +1,2 @@
-# tribute_page
-FCC HTML 1/5
-Created for FreeCodeCamp.com, plan to complete the whole curriculum and post all my solutions onto github. For the community! <3
+Free Code Camp Responsive Web Design Project: Tribute Page For the community! <3
 Working version here: https://bornonamonday.github.io/tribute_page/
